@@ -1,0 +1,2 @@
+MySQL 8.0
+python 3
